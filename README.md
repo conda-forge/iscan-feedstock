@@ -1,15 +1,15 @@
 About iscan
 ===========
 
-Home: https://github.com/ZhengnanZhao/iscan
+Home: https://github.com/zzhengnan/iscan
 
 Package license: MIT
 
 Feedstock license: BSD-3-Clause
 
-Summary: iscan helps you identify your project's third-party dependencies
+Summary: iscan helps you identify your project's dependencies
 
-iscan helps you identify your project's third-party dependencies
+iscan helps you identify your project's dependencies
 
 
 Current build status
@@ -117,5 +117,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@ZhengnanZhao](https://github.com/ZhengnanZhao/)
+* [@zzhengnan](https://github.com/zzhengnan/)
 
